@@ -1,2 +1,4 @@
 # ai-ml-practice
 This repository is created to learn and practice Git and GitHub basics.
+
+A beginner repository to understand Git and GitHub workflow.
